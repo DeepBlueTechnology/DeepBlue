@@ -1,0 +1,4 @@
+# DeepBlue
+DeepBlueTechnology
+这是一个关于体育运动游戏的APP，
+主要利用手机的距离传感器与数据库来实现游戏的开发

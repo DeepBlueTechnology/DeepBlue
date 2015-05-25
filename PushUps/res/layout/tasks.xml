@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_11"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="90dp" />
+    <ImageView 
+        android:id="@+id/tasks1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/task1"
+        />
+      <ImageView 
+        android:id="@+id/tasks2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/task2"
+        />
+        <ImageView 
+        android:id="@+id/tasks3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/task3"
+        />
+          <ImageView 
+        android:id="@+id/tasks4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/task4"
+        />
+
+   
+
+    
+
+    
+
+     <TextView
+        android:layout_width="match_parent"
+        android:layout_height="90dp" />
+     
+     <LinearLayout 
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:orientation="horizontal"
+         >
+      <TextView
+        android:layout_width="100dp"
+        android:layout_height="wrap_content" />
+
+    
+ <ImageView
+        android:id="@+id/imageback"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:src="@drawable/button_back" />
+ </LinearLayout>
+</LinearLayout>

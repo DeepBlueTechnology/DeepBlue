@@ -1,0 +1,256 @@
+android.support.v4.app.BackStackState
+android.support.v4.app.BackStackState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.Fragment$SavedState
+android.support.v4.app.Fragment$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentManagerState
+android.support.v4.app.FragmentManagerState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentState
+android.support.v4.app.FragmentState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentTabHost: void setOnTabChangedListener(android.widget.TabHost$OnTabChangeListener)
+android.support.v4.app.FragmentTabHost$SavedState
+android.support.v4.app.FragmentTabHost$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.content.ModernAsyncTask$Status: android.support.v4.content.ModernAsyncTask$Status[] values()
+android.support.v4.content.ModernAsyncTask$Status: android.support.v4.content.ModernAsyncTask$Status valueOf(java.lang.String)
+android.support.v4.view.PagerTabStrip: void setTabIndicatorColor(int)
+android.support.v4.view.PagerTabStrip: void setTabIndicatorColorResource(int)
+android.support.v4.view.PagerTabStrip: int getTabIndicatorColor()
+android.support.v4.view.PagerTabStrip: void setTextSpacing(int)
+android.support.v4.view.PagerTabStrip: void setBackgroundDrawable(android.graphics.drawable.Drawable)
+android.support.v4.view.PagerTabStrip: void setBackgroundColor(int)
+android.support.v4.view.PagerTabStrip: void setBackgroundResource(int)
+android.support.v4.view.PagerTabStrip: void setDrawFullUnderline(boolean)
+android.support.v4.view.PagerTabStrip: boolean getDrawFullUnderline()
+android.support.v4.view.PagerTabStrip: int getMinHeight()
+android.support.v4.view.PagerTitleStrip: void setSingleLineAllCaps(android.widget.TextView)
+android.support.v4.view.PagerTitleStrip: void setTextSpacing(int)
+android.support.v4.view.PagerTitleStrip: int getTextSpacing()
+android.support.v4.view.PagerTitleStrip: void setNonPrimaryAlpha(float)
+android.support.v4.view.PagerTitleStrip: void setTextColor(int)
+android.support.v4.view.PagerTitleStrip: void setGravity(int)
+android.support.v4.view.PagerTitleStrip: int getMinHeight()
+android.support.v4.view.ViewPager: void setScrollState(int)
+android.support.v4.view.ViewPager: void setAdapter(android.support.v4.view.PagerAdapter)
+android.support.v4.view.ViewPager: android.support.v4.view.PagerAdapter getAdapter()
+android.support.v4.view.ViewPager: void setOnAdapterChangeListener(android.support.v4.view.ViewPager$OnAdapterChangeListener)
+android.support.v4.view.ViewPager: int getClientWidth()
+android.support.v4.view.ViewPager: void setCurrentItem(int)
+android.support.v4.view.ViewPager: int getCurrentItem()
+android.support.v4.view.ViewPager: void setOnPageChangeListener(android.support.v4.view.ViewPager$OnPageChangeListener)
+android.support.v4.view.ViewPager: void setChildrenDrawingOrderEnabledCompat(boolean)
+android.support.v4.view.ViewPager: int getOffscreenPageLimit()
+android.support.v4.view.ViewPager: void setOffscreenPageLimit(int)
+android.support.v4.view.ViewPager: void setPageMargin(int)
+android.support.v4.view.ViewPager: int getPageMargin()
+android.support.v4.view.ViewPager: void setPageMarginDrawable(android.graphics.drawable.Drawable)
+android.support.v4.view.ViewPager: void setPageMarginDrawable(int)
+android.support.v4.view.ViewPager: void setScrollingCacheEnabled(boolean)
+android.support.v4.view.ViewPager$SavedState
+android.support.v4.view.ViewPager$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.widget.DrawerLayout: void setScrimColor(int)
+android.support.v4.widget.DrawerLayout: void setDrawerListener(android.support.v4.widget.DrawerLayout$DrawerListener)
+android.support.v4.widget.DrawerLayout: void setDrawerLockMode(int)
+android.support.v4.widget.DrawerLayout$SavedState
+android.support.v4.widget.DrawerLayout$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.widget.SlidingPaneLayout: void setParallaxDistance(int)
+android.support.v4.widget.SlidingPaneLayout: int getParallaxDistance()
+android.support.v4.widget.SlidingPaneLayout: void setSliderFadeColor(int)
+android.support.v4.widget.SlidingPaneLayout: int getSliderFadeColor()
+android.support.v4.widget.SlidingPaneLayout: void setCoveredFadeColor(int)
+android.support.v4.widget.SlidingPaneLayout: int getCoveredFadeColor()
+android.support.v4.widget.SlidingPaneLayout: void setPanelSlideListener(android.support.v4.widget.SlidingPaneLayout$PanelSlideListener)
+android.support.v4.widget.SlidingPaneLayout: void setShadowDrawable(android.graphics.drawable.Drawable)
+android.support.v4.widget.SlidingPaneLayout: void setShadowResource(int)
+android.support.v4.widget.SlidingPaneLayout$SavedState
+android.support.v4.widget.SlidingPaneLayout$SavedState: android.os.Parcelable$Creator CREATOR
+com.example.pushups.R$color: int white
+com.example.pushups.R$drawable: int back
+com.example.pushups.R$drawable: int back2
+com.example.pushups.R$drawable: int bg
+com.example.pushups.R$drawable: int bg2
+com.example.pushups.R$drawable: int bg3
+com.example.pushups.R$drawable: int bg4
+com.example.pushups.R$drawable: int bg_10
+com.example.pushups.R$drawable: int bg_11
+com.example.pushups.R$drawable: int bg_18
+com.example.pushups.R$drawable: int bg_2
+com.example.pushups.R$drawable: int bg_5
+com.example.pushups.R$drawable: int bg_8
+com.example.pushups.R$drawable: int bg_88
+com.example.pushups.R$drawable: int bg_nodec
+com.example.pushups.R$drawable: int biaozhun
+com.example.pushups.R$drawable: int boardbg
+com.example.pushups.R$drawable: int boardbg2
+com.example.pushups.R$drawable: int boardbg3
+com.example.pushups.R$drawable: int boy
+com.example.pushups.R$drawable: int button_back
+com.example.pushups.R$drawable: int button_back2
+com.example.pushups.R$drawable: int button_back3
+com.example.pushups.R$drawable: int button_back_hover
+com.example.pushups.R$drawable: int button_back_hover2
+com.example.pushups.R$drawable: int button_continue
+com.example.pushups.R$drawable: int button_exercise
+com.example.pushups.R$drawable: int button_exercise_hover
+com.example.pushups.R$drawable: int button_exercise_photo
+com.example.pushups.R$drawable: int button_help
+com.example.pushups.R$drawable: int button_menu
+com.example.pushups.R$drawable: int button_pause
+com.example.pushups.R$drawable: int button_start
+com.example.pushups.R$drawable: int button_start2
+com.example.pushups.R$drawable: int button_start3
+com.example.pushups.R$drawable: int button_start_hover
+com.example.pushups.R$drawable: int button_start_photo
+com.example.pushups.R$drawable: int check
+com.example.pushups.R$drawable: int checkbg
+com.example.pushups.R$drawable: int coach
+com.example.pushups.R$drawable: int continue2
+com.example.pushups.R$drawable: int continue_2
+com.example.pushups.R$drawable: int continue_3
+com.example.pushups.R$drawable: int continue_hover
+com.example.pushups.R$drawable: int countdown1
+com.example.pushups.R$drawable: int countdown2
+com.example.pushups.R$drawable: int countdown3
+com.example.pushups.R$drawable: int countdown_readygo
+com.example.pushups.R$drawable: int counter
+com.example.pushups.R$drawable: int create
+com.example.pushups.R$drawable: int daojishi1
+com.example.pushups.R$drawable: int daojishi2
+com.example.pushups.R$drawable: int daojishi3
+com.example.pushups.R$drawable: int daojishigo
+com.example.pushups.R$drawable: int daoju
+com.example.pushups.R$drawable: int done
+com.example.pushups.R$drawable: int exercise_5
+com.example.pushups.R$drawable: int girl
+com.example.pushups.R$drawable: int help
+com.example.pushups.R$drawable: int help_2
+com.example.pushups.R$drawable: int help_3
+com.example.pushups.R$drawable: int help_hover
+com.example.pushups.R$drawable: int ic_launcher
+com.example.pushups.R$drawable: int iforminput_bg
+com.example.pushups.R$drawable: int intro_1
+com.example.pushups.R$drawable: int kuanju
+com.example.pushups.R$drawable: int logo
+com.example.pushups.R$drawable: int logo1
+com.example.pushups.R$drawable: int logo2
+com.example.pushups.R$drawable: int logo_1
+com.example.pushups.R$drawable: int logo_2
+com.example.pushups.R$drawable: int man2
+com.example.pushups.R$drawable: int man3
+com.example.pushups.R$drawable: int man_small
+com.example.pushups.R$drawable: int newgame
+com.example.pushups.R$drawable: int newgame_2
+com.example.pushups.R$drawable: int newgame_3
+com.example.pushups.R$drawable: int newgame_hover
+com.example.pushups.R$drawable: int notification1
+com.example.pushups.R$drawable: int notification11
+com.example.pushups.R$drawable: int notification2
+com.example.pushups.R$drawable: int notification22
+com.example.pushups.R$drawable: int onpause
+com.example.pushups.R$drawable: int onpause2
+com.example.pushups.R$drawable: int rectanglebg
+com.example.pushups.R$drawable: int resume_1
+com.example.pushups.R$drawable: int s_1
+com.example.pushups.R$drawable: int s_11
+com.example.pushups.R$drawable: int s_2
+com.example.pushups.R$drawable: int s_22
+com.example.pushups.R$drawable: int s_3
+com.example.pushups.R$drawable: int s_33
+com.example.pushups.R$drawable: int s_4
+com.example.pushups.R$drawable: int s_44
+com.example.pushups.R$drawable: int setting
+com.example.pushups.R$drawable: int start
+com.example.pushups.R$drawable: int start_1
+com.example.pushups.R$drawable: int start_2
+com.example.pushups.R$drawable: int start_3
+com.example.pushups.R$drawable: int start_hover
+com.example.pushups.R$drawable: int start_hover2
+com.example.pushups.R$drawable: int start_train
+com.example.pushups.R$drawable: int task1
+com.example.pushups.R$drawable: int task1_hover
+com.example.pushups.R$drawable: int task1_photo
+com.example.pushups.R$drawable: int task2
+com.example.pushups.R$drawable: int task2_hover
+com.example.pushups.R$drawable: int task2_photo
+com.example.pushups.R$drawable: int task3
+com.example.pushups.R$drawable: int task3_photo
+com.example.pushups.R$drawable: int task4
+com.example.pushups.R$drawable: int task4_photo
+com.example.pushups.R$drawable: int waixiangkuanju
+com.example.pushups.R$drawable: int zhaiju
+com.example.pushups.R$id: int b1
+com.example.pushups.R$id: int b2
+com.example.pushups.R$id: int back_game
+com.example.pushups.R$id: int back_of_counter
+com.example.pushups.R$id: int boy
+com.example.pushups.R$id: int continue2
+com.example.pushups.R$id: int counter2
+com.example.pushups.R$id: int done
+com.example.pushups.R$id: int fuwocheng
+com.example.pushups.R$id: int girl
+com.example.pushups.R$id: int giveup
+com.example.pushups.R$id: int height
+com.example.pushups.R$id: int imageback
+com.example.pushups.R$id: int intro
+com.example.pushups.R$id: int liliang
+com.example.pushups.R$id: int mainstatus_back
+com.example.pushups.R$id: int mainstatus_start_train
+com.example.pushups.R$id: int mainstatus_user_name
+com.example.pushups.R$id: int naili
+com.example.pushups.R$id: int new_game
+com.example.pushups.R$id: int number_of_lack
+com.example.pushups.R$id: int resume
+com.example.pushups.R$id: int start_game
+com.example.pushups.R$id: int tasks1
+com.example.pushups.R$id: int tasks2
+com.example.pushups.R$id: int tasks3
+com.example.pushups.R$id: int tasks4
+com.example.pushups.R$id: int tunwei
+com.example.pushups.R$id: int user_name
+com.example.pushups.R$id: int user_photo
+com.example.pushups.R$id: int weight
+com.example.pushups.R$id: int words
+com.example.pushups.R$id: int xiongwei
+com.example.pushups.R$layout: int countdown1
+com.example.pushups.R$layout: int countdown2
+com.example.pushups.R$layout: int countdown3
+com.example.pushups.R$layout: int countdown_readygo
+com.example.pushups.R$layout: int counter
+com.example.pushups.R$layout: int create_user
+com.example.pushups.R$layout: int done
+com.example.pushups.R$layout: int main
+com.example.pushups.R$layout: int mainstatus
+com.example.pushups.R$layout: int nailitaskdetails
+com.example.pushups.R$layout: int onpause
+com.example.pushups.R$layout: int push_up_counter
+com.example.pushups.R$layout: int taskdetails
+com.example.pushups.R$layout: int tasks
+com.example.pushups.R$raw: int bgm
+com.example.pushups.R$raw: int goodjob
+com.example.pushups.R$raw: int no1
+com.example.pushups.R$raw: int no2
+com.example.pushups.R$raw: int no3
+com.example.pushups.R$raw: int onemore
+com.example.pushups.R$string: int app_name
+com.example.pushups.R$style: int AppBaseTheme
+com.example.pushups.R$style: int AppTheme
+com.pushups.BiaozhunCounter
+com.pushups.BiaozhunCounter: BiaozhunCounter()
+com.pushups.CreateUserAvtivity
+com.pushups.CreateUserAvtivity: CreateUserAvtivity()
+com.pushups.KuanJuCounter
+com.pushups.KuanJuCounter: KuanJuCounter()
+com.pushups.KuanJuWaiXiangCounter
+com.pushups.KuanJuWaiXiangCounter: KuanJuWaiXiangCounter()
+com.pushups.MainActivity
+com.pushups.MainActivity: MainActivity()
+com.pushups.MainstatusAcitivity
+com.pushups.MainstatusAcitivity: MainstatusAcitivity()
+com.pushups.NailiCounter
+com.pushups.NailiCounter: NailiCounter()
+com.pushups.Push_Ups_Counter
+com.pushups.Push_Ups_Counter: Push_Ups_Counter()
+com.pushups.TaskDetails
+com.pushups.TaskDetails: TaskDetails()
+com.pushups.TasksActivity
+com.pushups.TasksActivity: TasksActivity()
+com.pushups.ZhaiJuCounter
+com.pushups.ZhaiJuCounter: ZhaiJuCounter()

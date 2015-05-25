@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bg" >
+    
+    <TextView 
+        android:layout_width="match_parent"
+        android:layout_height="15dp"/>
+    <TableLayout 
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:background="@drawable/bg_10"
+         android:gravity="right"
+         android:paddingLeft="22dp"
+         android:paddingTop="25dp">
+         <TableRow 
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             >
+             
+             
+             <TextView 
+                 android:layout_width="80dp"
+                 android:layout_height="wrap_content"
+                 />
+            
+              <TextView 
+                 android:layout_width="130dp"
+                 android:layout_height="wrap_content"
+                 />
+             <TextView 
+                 android:id="@+id/liliang"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:text="50"
+                 android:textColor="@color/white"/>
+             
+         </TableRow>
+         <TableRow 
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:layout_marginTop="7dp"
+             >
+             
+            
+             <TextView 
+                 android:layout_width="60dp"
+                 android:layout_height="wrap_content"
+                 />
+             
+              
+              <TextView 
+                 android:layout_width="50dp"
+                 android:layout_height="wrap_content"
+                 />
+             <TextView 
+                 android:id="@+id/naili"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:text="40"
+                 android:textColor="@color/white"/>
+         </TableRow>
+        
+          <TableRow 
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:layout_marginTop="7dp"
+             >
+              
+               <TextView 
+                 android:layout_width="60dp"
+                 android:layout_height="wrap_content"
+                 />
+                <TextView 
+                 android:layout_width="50dp"
+                 android:layout_height="wrap_content"
+                 />
+             <TextView 
+                 android:id="@+id/xiongwei"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:gravity="right"
+                 android:text="90"
+                 android:textColor="@color/white"/>
+             
+         </TableRow>
+           <TableRow 
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:layout_marginTop="7dp"
+             >
+              
+               <TextView 
+                 android:layout_width="60dp"
+                 android:layout_height="wrap_content"
+                 />
+                <TextView 
+                 android:layout_width="50dp"
+                 android:layout_height="wrap_content"
+                 />
+             <TextView 
+                 android:id="@+id/tunwei"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:gravity="right"
+                 android:text="40"
+                 android:textColor="@color/white"/>
+             
+         </TableRow>
+         
+     </TableLayout>
+     
+  
+        
+     <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" 
+        android:gravity="center_vertical">
+        
+        
+         <TextView 
+         android:id="@+id/mainstatus_user_name"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         
+         android:text="陈浩南    "
+         android:textSize="20dp"
+         android:gravity="center"
+         android:textColor="@color/white"
+         />
+         
+         
+
+         
+        <ImageView 
+            android:id="@+id/user_photo"
+            android:layout_width="wrap_content"
+            android:layout_height="250dp"
+            android:src="@drawable/man_small"
+            android:scaleType="fitXY"
+            
+        />
+         
+        </LinearLayout>
+
+     
+     
+     
+     <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" 
+        android:gravity="center_vertical"
+        android:paddingRight="1dp">
+        
+        <TextView
+            android:layout_width="60dp"
+            android:layout_height="20dp" />
+        <ImageView 
+            android:id="@+id/mainstatus_back"
+           
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            
+            
+            android:src="@drawable/button_back2"/>
+        
+        <ImageView
+            
+            android:id="@+id/mainstatus_start_train"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            
+            
+            android:src="@drawable/button_exercise"/>
+        </LinearLayout>
+</LinearLayout>

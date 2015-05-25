@@ -1,0 +1,33 @@
+# view AndroidManifest.xml #generated:43
+-keep class com.pushups.BiaozhunCounter { <init>(...); }
+
+# view AndroidManifest.xml #generated:33
+-keep class com.pushups.CreateUserAvtivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:53
+-keep class com.pushups.KuanJuCounter { <init>(...); }
+
+# view AndroidManifest.xml #generated:63
+-keep class com.pushups.KuanJuWaiXiangCounter { <init>(...); }
+
+# view AndroidManifest.xml #generated:18
+-keep class com.pushups.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:28
+-keep class com.pushups.MainstatusAcitivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:58
+-keep class com.pushups.NailiCounter { <init>(...); }
+
+# view AndroidManifest.xml #generated:74
+-keep class com.pushups.Push_Ups_Counter { <init>(...); }
+
+# view AndroidManifest.xml #generated:48
+-keep class com.pushups.TaskDetails { <init>(...); }
+
+# view AndroidManifest.xml #generated:38
+-keep class com.pushups.TasksActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:68
+-keep class com.pushups.ZhaiJuCounter { <init>(...); }
+
